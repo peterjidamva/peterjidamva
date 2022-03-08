@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**peterjidamva/peterjidamva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I AM PETER PIUS JIDAMVA,  FULLSTACK DEVELOPER 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on   Getting Better 
 - 🌱 I’m currently learning Go React Blockchain 
