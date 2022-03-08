@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him
 - ⚡ Fun fact: "I dont trust the government"
 
-https://peterjidamva.wrapped.run
+
+![wrapped_peterjidamva (1)](https://user-images.githubusercontent.com/64710848/157327804-0aa01dc2-4d21-4320-9d97-1a7392760fb2.png)
