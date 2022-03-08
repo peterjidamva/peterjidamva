@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mobile App Development ,Blockchain , Web App Development
 - 📫 How to reach me: jidamvap@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: "I dont trust the government"
+- ⚡ Fun fact: "I dont trust the Meta"
 
 
 ![wrapped_peterjidamva](https://user-images.githubusercontent.com/64710848/157327891-69cddd11-4aa5-4477-9299-b59802d443cf.png)
