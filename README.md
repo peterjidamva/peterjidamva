@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <a href="https://go.dev/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/golang.png"/> 
     </a>
-
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
     </a>
@@ -40,10 +39,8 @@ Here are some ideas to get you started:
      <a href="https://www.android.com/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
     </a>
-    
     <a href="https://www.investopedia.com/terms/b/blockchain.asp" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png"/>
-   
     </a>
       <a href="https://www.python.org" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/python.png" />
@@ -51,8 +48,7 @@ Here are some ideas to get you started:
       <a
         style="padding-right: 8px"
         href="https://www.mysql.com/"
-        target="_blank"
-      >
+        target="_blank">
         <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
       </a>
       <a href="https://firebase.google.com/" target="_blank">
@@ -72,9 +68,9 @@ Here are some ideas to get you started:
       </a>
     </p>
 
-    <br />
+   <br/>
 
-    <p align="center">
+   <p align="center">
       <a href="https://github.com/peterjidamva/github-readme-streak-stats">
         <img
           title="🔥 Get streak stats for your profile at git.io/streak-stats"
@@ -85,7 +81,8 @@ Here are some ideas to get you started:
     </p>
     <br />
     <br />
-    ## 📊 My Github Stats
+    
+ ## 📊 My Github Stats
   <br/>
   <br>
     <a href="https://github.com/peterjidamva/github-readme-stats"><img alt="Jidamva Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterjidamva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -99,8 +96,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/peterjidamva/github-readme-activity-graph"><img alt="Jidamva Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=peterjidamva&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 <br>
-    ## Connect with me:
-    <p align="left">
+
+ ## Connect with me:
+   <p align="left">
       <a href="https://www.linkedin.com/in/peter-jidamva-3800831a6/"
         ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
       /></a>
@@ -113,7 +111,7 @@ Here are some ideas to get you started:
     </p>
 
     
-    <a href="https://github.com/peterjidamva?tab=followers"
+   <a href="https://github.com/peterjidamva?tab=followers"
       ><img
         src="https://img.shields.io/github/followers/peterjidamva?label=Followers&style=social"
         alt="GitHub Badge"
