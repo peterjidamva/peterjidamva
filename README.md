@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "I dont trust the government"
 
 
-![wrapped_peterjidamva (1)](https://user-images.githubusercontent.com/64710848/157327804-0aa01dc2-4d21-4320-9d97-1a7392760fb2.png)
+![wrapped_peterjidamva](https://user-images.githubusercontent.com/64710848/157327891-69cddd11-4aa5-4477-9299-b59802d443cf.png)
