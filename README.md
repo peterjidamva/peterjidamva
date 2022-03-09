@@ -11,7 +11,7 @@ I AM PETER PIUS JIDAMVA,  FULLSTACK DEVELOPER
 - 💬 Ask me about Mobile App Development ,Blockchain , Web App Development
 - 📫 How to reach me: jidamvap@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: "I dont trust the Meta"
+- ⚡ Fun fact: "I dont trust Meta"
 
  <p align="left">
       <a href="https://dart.dev/" target="_blank">
