@@ -69,7 +69,7 @@ I AM PETER PIUS JIDAMVA,  FULLSTACK DEVELOPER
 
    <br/>
 
-   <p align="center">
+   <p align="center" style = "color ⚫">
       <a href="https://github.com/peterjidamva/github-readme-streak-stats">
         <img
           title="🔥 Get streak stats for your profile at git.io/streak-stats"
