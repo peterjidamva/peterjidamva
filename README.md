@@ -4,11 +4,11 @@
 I AM PETER PIUS JIDAMVA,  FULLSTACK DEVELOPER 
 
 
-- 🔭 I’m currently working on   Getting Better 
-- 🌱 I’m currently learning AI and Devops 
-- 👯 I’m looking to collaborate on Dart Python Php Java  Firebase SQL   
+- 🔭 I’m currently working on Getting Better 
+- 🌱 I’m currently learning AI  
+- 👯 I’m looking to collaborate on Mobile Application , Devops .   
 - 🤔 I’m looking for help with AI
-- 💬 Ask me about Mobile App Development ,Blockchain , Web App Development
+- 💬 Ask me about Mobile App Development ,Blockchain , Devops . 
 - 📫 How to reach me: jidamvap@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: "My Happiness rely on how many bugs i solved"
